@@ -22,7 +22,7 @@ class Board {
     for (let i = 0; i < this._boardSize; i++) {
       const cell = document.createElement('div');
       cell.className = 'cell';
-      this._board.appendChild(cell);
+      this._board.append(cell);
     }
   }
 
@@ -40,7 +40,7 @@ class Board {
 
   placeGoblin() {
     const cell = this.getRandomCell();
-    cell.appendChild(this._goblinElement);
+    cell.append(this._goblinElement);
   }
 
   moveGoblins() {
