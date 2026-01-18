@@ -1,0 +1,12 @@
+.goblin {
+  width: 100px;
+  cursor: pointer;
+}
+
+/* .goblin:hover {
+  width: 110px;
+}
+
+.goblin:active {
+  filter: grayscale(0.5);
+} */
