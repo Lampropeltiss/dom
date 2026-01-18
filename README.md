@@ -1,6 +1,6 @@
 # Webpack5
 
-![CI](https://github.com/Lampropeltiss/env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Lampropeltiss/dom/actions/workflows/web.yml/badge.svg)
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
